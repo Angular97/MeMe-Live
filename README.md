@@ -18,7 +18,5 @@ MeMe Live App - A seamless, high-performing App; accessible library for API rela
 
 ## ScreenShots
 ![](Screenshots/Screenshot_2022-01-27-18-27-33-499_com.example.memeshare.png)
-
 ![](Screenshots/Screenshot_2022-01-27-18-27-51-840_com.example.memeshare.png)
-
 ![](Screenshots/Screenshot_2022-01-27-18-27-47-242_android.png)
