@@ -6,7 +6,7 @@ MeMe Live App - A seamless, high-performing App; accessible library for API rela
 - With the help of **Next** Button find the new Meme.
   
 ## Libraries
-- [Volley Library](https://developer.android.com/training/volley): for Called API Data.
+- [Volley Library](https://developer.android.com/training/volley): Called for API Data.
 - [Glide Library](https://github.com/bumptech/glide) : For Image Loading Framework
 
 ## Support
